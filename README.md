@@ -1,4 +1,4 @@
-<h1> 🐾 WE CARE 🐾 <h1>
+<h1 align="center"> 🐾 🐶WE CARE🐶 🐾 <h1>
 <br>
 <h2>Esse foi um projeto que aprendi no <a href="https://www.devclub.com.br">DevClub</a></h2>
 <p>Landing page responsiva criada para praticar desenvolvimento front-end com HTML e CSS. O projeto tem como objetivo treinar a organização do código, a estrutura da página e a adaptação do site para diferentes dispositivos.
